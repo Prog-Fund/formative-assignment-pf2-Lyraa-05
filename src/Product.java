@@ -98,7 +98,10 @@ public class Product {
     //  "Product description: Flatscreen TV  product code: 2000  unit cost: 1000 and currently in product line: Y"
 
     {
-        return "TO DO WRITE TOSTRING";
+        return "Product Name : " + productName
+        + ", Product Code : " + productCode
+        + ", Unit Cost : " + unitCost
+        + ", Currently in product line : " + inCurrentProductLine;
     }
 
 }
