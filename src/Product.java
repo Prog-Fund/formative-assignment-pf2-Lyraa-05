@@ -88,7 +88,7 @@ public class Product {
     public void setInCurrentProductLine(boolean inCurrentProductLine) {
         this.inCurrentProductLine = inCurrentProductLine;
     }
-
+    System.out.print("This is a test");
     /**
      * Builds a String representing a user-friendly representation of the object state
      * @return Details of the specific product
