@@ -49,7 +49,7 @@ public class Product {
     public int getProductCode() {
         return productCode;
     }
-
+private int Test = 0;
     /**
      * Returns a boolean indicating if the product is in the current product line
      */
